@@ -1,0 +1,40 @@
+.about {
+  margin: 120px 38px;
+  align-items: center;
+  text-align: center;
+
+  h1 {
+    font-size: 22pt;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  p {
+    font-size: 14pt;
+    width: 320px;
+    text-align: justify;
+  }
+
+  h3 {
+    font-size: 18pt;
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  img {
+    position: absolute;
+    width: 120px;
+    margin-left: 130px;
+    margin-top: -8px;
+  }
+
+  input {
+    background-color: #7c0068;
+    color: #fff;
+    font-size: 11pt;
+    border: none;
+    padding: 20px 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+  } 
+}
