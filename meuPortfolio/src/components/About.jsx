@@ -5,7 +5,7 @@ export default function About() {
     <main className='about'>
        <h1>Quem sou?</h1>
 
-       <p>Sou Desenvolvedor Web e Mobile, movido pela paixão por códigos e pela resolução criativa de desafios. Com organização e foco total na satisfação do cliente, transformo ideias em soluções digitais inovadoras e impactantes. Entrego resultados que vão além do esperado, elevando sua presença online com modernidade, profissionalismo e eficiência. Se você busca alguém que faça a diferença, pode contar comigo para tornar isso realidade com excelência</p>
+       <p>Sou um Desenvolvedor Web e Mobile, movido pela paixão por códigos e pela resolução criativa de desafios. Com organização e foco total na satisfação do cliente, transformo ideias em soluções digitais inovadoras e impactantes. Entrego resultados que vão além do esperado, elevando sua presença online com modernidade, profissionalismo e eficiência. Se você busca alguém que faça a diferença, pode contar comigo para tornar isso realidade com excelência</p>
 
        <h3>Vamos tirar essa ideia do papel hoje mesmo!</h3>
 

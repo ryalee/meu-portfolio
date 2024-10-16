@@ -1,0 +1,49 @@
+.projects {
+  margin-top: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 30px;
+
+  .projects-cards {
+    img {
+      align-self: center;
+      margin-bottom: 20px;
+      width: 200px;
+      border: 1px solid #000;
+    }
+
+    .project-desc {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+
+      h3 {
+        font-size: 12pt;
+        font-weight: 500;
+        margin-top: -10px;
+        border: 1px solid #000;
+        border-radius: 10px;
+        width: 40%;
+        align-self: center;
+      }  
+      
+      p {
+        width: 300px;
+        font-size: 12pt;
+      }
+
+      a {
+        background-color: #7c0068;
+        color: #fff;
+        padding: 10px;
+        width: 50%;
+        border-radius: 10px;
+        align-self: center;
+        text-decoration: none;
+      }
+    }
+  }
+
+}

@@ -1,0 +1,32 @@
+footer {
+  margin-top: 80px;
+  background-color: #7c0068;
+  padding: 20px 0 10px;
+
+  .main {
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+
+    .footer-logo {
+      color: #fff;
+    }
+  
+    .socials {
+      display: flex;
+      gap: 20px;
+
+      i {
+        color: #fff;
+        font-size: 20pt;
+      }
+    }
+  }
+
+  .footer-text {
+    font-size: 10pt;
+    text-align: center;
+    color: #fccc;
+    margin-top: 10px;
+  }
+}
